@@ -26,3 +26,5 @@ conda create --name scgis python=3
 conda activate scgis
 
 conda install -n scgis gdal matplotlib requests jupyterlab
+
+23
